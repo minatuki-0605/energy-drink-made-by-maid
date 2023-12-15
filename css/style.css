@@ -380,8 +380,7 @@ ol {
 */
 
 .pack {
-	max-width: 8
-		0%;
+	max-width: 80%;
 	height: auto;
 	margin: 0 auto;
 }
